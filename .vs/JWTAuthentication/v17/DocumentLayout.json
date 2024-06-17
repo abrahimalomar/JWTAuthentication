@@ -3,39 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/JWTAuthenticationDb/True/SqlTable/security.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\30698\\source\\madad\\jwtauthentication\\jwtauthentication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\30698\\source\\madad\\jwtauthentication\\jwtauthentication\\migrations\\20240616140205_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\migrations\\20240616140205_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\30698\\source\\madad\\jwtauthentication\\jwtauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\30698\\source\\madad\\jwtauthentication\\jwtauthentication\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\30698\\source\\madad\\jwtauthentication\\jwtauthentication\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\30698\\source\\madad\\jwtauthentication\\jwtauthentication\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\30698\\source\\madad\\jwtauthentication\\jwtauthentication\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Migrations\\20240616135747_AddDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTAuthentication\\Migrations\\20240616135747_AddDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\30698\\source\\madad\\jwtauthentication\\jwtauthentication\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\30698\\source\\madad\\jwtauthentication\\jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\30698\\source\\madad\\jwtauthentication\\jwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\30698\\source\\madad\\jwtauthentication\\jwtauthentication\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\30698\\source\\madad\\jwtauthentication\\jwtauthentication\\jwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{2EDA1FD3-8E3D-477A-9316-02423FE8E629}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\jwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,63 +43,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20240616140205_SeedRoles.cs",
-              "DocumentMoniker": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Migrations\\20240616140205_SeedRoles.cs",
-              "RelativeDocumentMoniker": "JWTAuthentication\\Migrations\\20240616140205_SeedRoles.cs",
-              "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Migrations\\20240616140205_SeedRoles.cs",
-              "RelativeToolTip": "JWTAuthentication\\Migrations\\20240616140205_SeedRoles.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAwwA4AAAAQAAAA",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTAuthentication\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wB8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T14:02:05.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "JWTAuthentication\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "JWTAuthentication\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAcwAgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T13:36:01.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "security.Roles [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/JWTAuthenticationDb/True/SqlTable/security.Roles.sql",
-              "ToolTip": "security.Roles [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-16T20:29:16.804Z",
+              "WhenOpened": "2024-06-17T06:06:18.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "JWTAuthentication\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "JWTAuthentication\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Models\\AuthModel.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Models\\AuthModel.cs",
+              "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Models\\AuthModel.cs",
+              "RelativeToolTip": "JWTAuthentication\\Models\\AuthModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T13:35:22.93Z",
+              "WhenOpened": "2024-06-17T05:37:57.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20240616135747_AddDataBase.cs",
-              "DocumentMoniker": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Migrations\\20240616135747_AddDataBase.cs",
-              "RelativeDocumentMoniker": "JWTAuthentication\\Migrations\\20240616135747_AddDataBase.cs",
-              "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Migrations\\20240616135747_AddDataBase.cs",
-              "RelativeToolTip": "JWTAuthentication\\Migrations\\20240616135747_AddDataBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "JWTAuthentication\\Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T13:57:48.303Z",
+              "WhenOpened": "2024-06-17T05:36:41.071Z",
               "EditorCaption": ""
             },
             {
@@ -121,48 +87,35 @@
               "RelativeDocumentMoniker": "JWTAuthentication\\Program.cs",
               "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Program.cs",
               "RelativeToolTip": "JWTAuthentication\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCIAAABhAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAIBCwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T13:05:54.375Z",
+              "WhenOpened": "2024-06-17T05:04:01.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\appsettings.json",
-              "RelativeDocumentMoniker": "JWTAuthentication\\appsettings.json",
-              "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\appsettings.json",
-              "RelativeToolTip": "JWTAuthentication\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-16T13:02:54.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JWTAuthentication.http",
-              "DocumentMoniker": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication.http",
-              "RelativeDocumentMoniker": "JWTAuthentication\\JWTAuthentication.http",
-              "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication.http",
-              "RelativeToolTip": "JWTAuthentication\\JWTAuthentication.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-06-16T13:02:48.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "JWT.cs",
-              "DocumentMoniker": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Helpers\\JWT.cs",
-              "RelativeDocumentMoniker": "JWTAuthentication\\Helpers\\JWT.cs",
-              "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Helpers\\JWT.cs",
-              "RelativeToolTip": "JWTAuthentication\\Helpers\\JWT.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Services\\AuthService.cs",
+              "RelativeToolTip": "JWTAuthentication\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T13:02:20.01Z",
+              "WhenOpened": "2024-06-17T05:02:23.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\30698\\source\\Madad\\JWTAuthentication\\JWTAuthentication\\Services\\IAuthService.cs",
+              "RelativeToolTip": "JWTAuthentication\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:01:29.945Z",
               "EditorCaption": ""
             }
           ]

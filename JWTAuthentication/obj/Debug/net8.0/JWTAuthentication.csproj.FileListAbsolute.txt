@@ -257,3 +257,4 @@ C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0
 C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\JWTAuthentication.pdb
 C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\JWTAuthentication.genruntimeconfig.cache
 C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\ref\JWTAuthentication.dll
+C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\JWTAuthentication.sourcelink.json
