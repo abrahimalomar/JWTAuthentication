@@ -241,7 +241,6 @@ C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0
 C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\JWTAuthentication.AssemblyInfoInputs.cache
 C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\JWTAuthentication.AssemblyInfo.cs
 C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\JWTAuthentication.csproj.CoreCompileInputs.cache
-C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\JWTAuthentication.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\JWTAuthentication.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\staticwebassets.development.json
@@ -258,3 +257,4 @@ C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0
 C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\JWTAuthentication.genruntimeconfig.cache
 C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\ref\JWTAuthentication.dll
 C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\JWTAuthentication.sourcelink.json
+C:\Users\30698\source\Madad\JWTAuthentication\JWTAuthentication\obj\Debug\net8.0\JWTAuthentication.MvcApplicationPartsAssemblyInfo.cs
